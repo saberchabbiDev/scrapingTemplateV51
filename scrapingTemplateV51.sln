@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scrapingTemplateV51", "scrapingTemplateV51\scrapingTemplateV51.csproj", "{9EE7CC5B-E26E-48EB-9AA1-6B967572F610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE7CC5B-E26E-48EB-9AA1-6B967572F610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE7CC5B-E26E-48EB-9AA1-6B967572F610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE7CC5B-E26E-48EB-9AA1-6B967572F610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE7CC5B-E26E-48EB-9AA1-6B967572F610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5AA7263-90C1-4B97-9DF4-71F2E7EF9462}
+	EndGlobalSection
+EndGlobal
